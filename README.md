@@ -1,9 +1,10 @@
 # 💫 About Me:
 ### About Me<br>
 I'm a seasoned developer with 4 years of experience in Node.js, 2 years in Python, and 1 year in Java. Currently working at Digiturk, I've also been a part of Riot Games and 4D Sight in the past.<br><br>
-#### Experience:<br>- **Cloud Technologies:** 2 years, including scripting for GCP and AWS Lambda.<br>- 
-**Monitoring Solutions:** Implemented using Prometheus and Grafana.<br>- 
-**Learning Path:** Actively learning MSSQL, C#, and React.<br><br>
+#### Experience:<br>
+- **Cloud Technologies:** 2 years, including scripting for GCP and AWS Lambda.<br>
+- **Monitoring Solutions:** Implemented using Prometheus and Grafana.<br>
+- **Learning Path:** Actively learning MSSQL, C#, and React.<br><br>
 #### Education:<br>- Attended Marmara University for 4 years (quit during my senior year).<br><br>Feel free to explore my repositories and reach out if you have any questions!<br>
 
 
