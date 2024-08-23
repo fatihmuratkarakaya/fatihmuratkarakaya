@@ -4,7 +4,7 @@ I'm a seasoned developer with 4 years of experience in Node.js, 2 years in Pytho
 #### Experience:<br>
 - **Cloud Technologies:** 2 years, including scripting for GCP and AWS Lambda.<br>
 - **Monitoring Solutions:** Implemented using Prometheus and Grafana.<br>
-- **Learning Path:** Actively learning MSSQL, C#, and React.<br><br>
+- **Learning Path:** Actively learning C#, and React.<br><br>
 #### Education:<br>- Attended Marmara University for 4 years (quit during my senior year).<br><br>Feel free to explore my repositories and reach out if you have any questions!<br>
 
 
